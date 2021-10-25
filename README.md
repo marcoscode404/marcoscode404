@@ -40,6 +40,7 @@
    <a href="https://www.facebook.com/Marcos.Code1999/" target="_blank"><img src"https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   </div>
   
-  
+ 
+<!--  cobrinha  -->
   ![Snake animation](https://github.com/marcoscode404/marcoscode404/blob/output/github-contribution-grid-snake.svg)
   
