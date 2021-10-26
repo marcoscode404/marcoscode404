@@ -26,7 +26,7 @@
   
 <!-- imagens das linguagens  -->
  <div style="display: inline_block"><br>
-  <h2>Tecnologias</h2>
+  <h2>🛠 Tecnologias</h2>
   <img align="center" alt="marcos-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -43,7 +43,7 @@
   
 <!-- redes sociais   -->
   <div>
-   <h2>Redes Sociais!</h2>
+   <h2>🎥 Redes Sociais!</h2>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/marcosviniicode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -59,8 +59,9 @@
 
   </div>
 <!-- /  -->
-  
- 
+ </br>
+ <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+
  ##
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=marcoscode404&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph&theme=dracula)
  
