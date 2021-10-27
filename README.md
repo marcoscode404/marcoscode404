@@ -36,8 +36,9 @@
   <img align="center" alt="marcos-CSS" height="30" width="40" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">                   
   
   
-  <img align="right" alt="marcos-pic" height="50" style="border-radius:50;" src="https://media.giphy.com/media/J1WyRIJrTeKs6R6VHL/giphy.gif">
+  <img align="right" alt="marcos-pic" height="90" style="border-radius:50;" src="https://media.giphy.com/media/J1WyRIJrTeKs6R6VHL/giphy.gif">
 </div>
+   </br>
 <!--  / -->
   
   
