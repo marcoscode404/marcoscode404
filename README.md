@@ -11,7 +11,7 @@
 -  ✔  Trabalho como suporte de sistemas no Hospital unimed
 - 🐱‍ Atualmente estudo Front-end como base de desenvolvimento web
 - 🐱‍👤 tecnologias que estudo atualmente: React.js, html, css, javascript, um pouco de node.js
-- 🐱‍🏍 Tecnologias  que tenho a intenção de estudar também: Firebase, banco de dados PostgreSQL, typescript, next.js
+- 🐱‍🏍 Tecnologias  que tenho a intenção de estudar também: Firebase, banco de dados PostgreSQL, typescript, next.js, python
 
  <br />
 
