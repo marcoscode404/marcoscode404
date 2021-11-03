@@ -8,7 +8,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoscode404&color=yellow" alt="Profile views" /> </p>
 
  
--  ✔  Trabalho como suporte de sistemas no Hospital unimed
+-  ✔  Trabalho como tecnico de TI prestando suporte em sistemas do Hospital unimed Porto Velho desde 2019
 - 🐱‍ Atualmente estudo Front-end como base de desenvolvimento web
 - 🐱‍👤 tecnologias que estudo atualmente: React.js, html, css, javascript, um pouco de node.js, git, gitkrakren
 - 🐱‍🏍 Tecnologias  que tenho a intenção de estudar também: Firebase, banco de dados PostgreSQL, typescript, next.js, python
