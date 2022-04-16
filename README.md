@@ -34,12 +34,16 @@
   <img align="center" alt="marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" width="40" align="center" />
-  <img align="center" alt="marcos-CSS" height="30" width="40" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">                   
+  <img align="center" alt="marcos-CSS" height="30" width="40" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="marcos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   
+    
   
   <img align="right" alt="marcos-pic" height="90" style="border-radius:50;" src="https://res.cloudinary.com/mahenrique94/image/upload/v1549717030/gif-bob-esponja-restaurante-pensando_bpy2ws.gif">
 </div>
    </br>
+   
+  
 <!--  / -->
   
   
