@@ -2,17 +2,20 @@
 <h1 align="center">
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
    # Olá! eu sou o Marcos Vini! Seja Bem vindo 🌎😊 
+ 
    <br/>
    <br/>
-    <img src="imagem_2022-04-20_234445894.png" width="508">
+    <img src="imagem_2022-04-20_234445894.png" width="508" >
    <br/>
    
 </h1>
+
+  <font color=#7FFF00> 要使用的字体</font>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoscode404&color=yellow" alt="Profile views" /> </p>
 
  
-<h4>  
+<h4 >  
    - ✔  Trabalho como tecnico de TI prestando suporte em sistemas do Hospital unimed Porto Velho desde 2019 <br/>
    - 🐱‍ Atualmente estudo Front-end como base de desenvolvimento web <br/>
    - 🐱‍👤 tecnologias que estudo atualmente: React.js, html, css, javascript,  typescript, next.js, um pouco de node.js, git, github.<br/>
@@ -22,7 +25,7 @@
 
  <br />
 
-<div  align="center" >
+<div   align="center" >
   <a href="https://github.com/marcoscode404">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoscode404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscode404&layout=compact&langs_count=7&theme=dracula"/>
@@ -71,8 +74,18 @@
 
   </div>
 <!-- /  -->
+
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{marcoscode404}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+
+
  </br>
  <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+
+
 
  ##
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=marcoscode404&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph&theme=dracula)
