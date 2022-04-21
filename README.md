@@ -2,17 +2,23 @@
 <h1 align="center">
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
    # Olá! eu sou o Marcos Vini! Seja Bem vindo 🌎😊 
+   <br/>
+   <br/>
+    <img src="imagem_2022-04-20_234445894.png" width="508">
+   <br/>
    
 </h1>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoscode404&color=yellow" alt="Profile views" /> </p>
 
  
--  ✔  Trabalho como tecnico de TI prestando suporte em sistemas do Hospital unimed Porto Velho desde 2019
-- 🐱‍ Atualmente estudo Front-end como base de desenvolvimento web
-- 🐱‍👤 tecnologias que estudo atualmente: React.js, html, css, javascript, um pouco de node.js, git, github
-- 🛢  Outras Ferramentas: gitkrakren, figma,
-- 🐱‍🏍 Tecnologias  que tenho a intenção de estudar também: Firebase, banco de dados PostgreSQL, typescript, next.js, python
+<h4>  
+   - ✔  Trabalho como tecnico de TI prestando suporte em sistemas do Hospital unimed Porto Velho desde 2019 <br/>
+   - 🐱‍ Atualmente estudo Front-end como base de desenvolvimento web <br/>
+   - 🐱‍👤 tecnologias que estudo atualmente: React.js, html, css, javascript,  typescript, next.js, um pouco de node.js, git, github.<br/>
+   - 🛢  Outras Ferramentas: gitkrakren, figma, Adobe cloud express, whinscall, trello <br/>
+   - 🐱‍🏍 Tecnologias  que tenho a intenção de estudar também: Firebase, banco de dados PostgreSQL, python, chakra UI, Tailwind <br/>
+</h4>
 
  <br />
 
