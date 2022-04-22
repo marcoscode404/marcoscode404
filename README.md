@@ -10,9 +10,9 @@
    
 </h1>
 
- <h2 align="center">About me</h2>
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```
+```javascript
 const ashraf = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
@@ -27,8 +27,6 @@ const ashraf = {
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
-
-
 ```
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoscode404&color=yellow" alt="Profile views" /> </p>
