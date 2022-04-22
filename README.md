@@ -112,7 +112,9 @@ const stack = {
 
   </div>
 <!-- /  -->
-
+<br/>
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+<br/>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -121,8 +123,7 @@ const stack = {
 
 
  </br>
- <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
+ 
 
 
  ##
@@ -133,4 +134,6 @@ const stack = {
  
 <!--  cobrinha  -->
   ![Snake animation](https://github.com/marcoscode404/marcoscode404/blob/output/github-contribution-grid-snake.svg)
+  
+  
   
