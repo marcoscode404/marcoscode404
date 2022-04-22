@@ -5,8 +5,14 @@
 </h1>
    <br/>
    
+   <img src="https://user-images.githubusercontent.com/51343240/164620042-1520e085-b6b4-419a-ad6a-8b71316d1ad3.jpg"  width="100%" height="500">
+   <br/>
+
+
 
   <img align="right" src="imagem_2022-04-20_234445894.png" width="508" height="320" >
+  <br/>
+
    <div align="left" >👩‍🚀 
       - Sou técnico em informática no Hospital Unimed Porto Velho. <br/>
       -  Analise de suporte computacional; <br/>
@@ -22,6 +28,7 @@
    </div>
  
 <br/>
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
