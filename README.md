@@ -19,7 +19,16 @@
 <br/>
 <br/>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<h4  height="30" width="10">👩‍🚀 No Ano de 2018 Conclui o estágio pela Procuradoria Geral do Estado RO <br/>
+   na parte de Dev front End durante 3 meses pelo Estagio Obrigatório
+   
+   ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me...  
+</h4>
+
+
+
+
+
 
 ```javascript
 const stack = {
@@ -38,7 +47,8 @@ const stack = {
 
  
 <h4 >  
-   - ✔  Trabalho como tecnico de TI prestando suporte em sistemas do Hospital unimed Porto Velho desde 2019 <br/>
+   - ✔  Trabalho como tecnico de TI prestando suporte em sistemas do Hospital unimed Porto Velho desde 2019 até os dias Atuais <br/>
+   - 👩‍🚀 No Ano de 2018 Conclui o estágio pela Procuradoria Geral do Estado na parte de Dev front End durante 3 meses pelo Estagio Obrigatório. <br/>
    - 🐱‍ Atualmente estudo Front-end como base de desenvolvimento web <br/>
    - 🐱‍👤 tecnologias que estudo atualmente: React.js, html, css, javascript,  typescript, next.js, um pouco de node.js, git, github.<br/>
    - 🛢  Outras Ferramentas: gitkrakren, figma, Adobe cloud express, whinscall, trello <br/>
