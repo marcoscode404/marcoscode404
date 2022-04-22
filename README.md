@@ -4,27 +4,24 @@
    # Olá! eu sou o Marcos Vini! Seja Bem vindo 🌎😊 
 </h1>
    <br/>
-   <h5  height="30" width="100%">👩‍🚀 No Ano de 2018 Conclui o estágio pela Procuradoria Geral do Estado RO <br/>
-   na parte de Dev front End durante 3 meses pelo Estagio Obrigatório
-     <img align="right" src="imagem_2022-04-20_234445894.png" width="508" >
    
-</h5>
-   
+
+  <img align="right" src="imagem_2022-04-20_234445894.png" width="508" height="320" >
+   <div align="left" >👩‍🚀 
+      - Sou técnico em informática no Hospital Unimed Porto Velho. <br/>
+      -  Analise de suporte computacional; <br/>
+      - Analise técnica e corretiva de erros em SO's e softwares em geral (Help desk); <br/>
+      - Analise de Processos No Sistema Mv - Software de Gestão Hospitalar; <br/>
+      - Suporte/Analise/Ensino de como criar uma prescrição Médica no Mv. <br/>
+      - Criação de Usuários ao Sistema Hospitalar. <br/>
+      - Informática empresarial; <br/>
+      - Suporte Técnico; <br/>
+      - Manutenção e limpeza de hardwares; <br/>
+      - Familiarizado com Infra estrutura de Redes. <br/>
+      - Marketing Digital. <br/>
+   </div>
  
- 
-
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
