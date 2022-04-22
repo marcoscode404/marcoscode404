@@ -4,8 +4,13 @@
    # Olá! eu sou o Marcos Vini! Seja Bem vindo 🌎😊 
 </h1>
    <br/>
+   <h5  height="30" width="100%">👩‍🚀 No Ano de 2018 Conclui o estágio pela Procuradoria Geral do Estado RO <br/>
+   na parte de Dev front End durante 3 meses pelo Estagio Obrigatório
+     <img align="right" src="imagem_2022-04-20_234445894.png" width="508" >
    
-   <img align="right" src="imagem_2022-04-20_234445894.png" width="508" >
+</h5>
+   
+ 
  
 
 <br/>
@@ -19,14 +24,10 @@
 <br/>
 <br/>
 
-<h4  height="30" width="10">👩‍🚀 No Ano de 2018 Conclui o estágio pela Procuradoria Geral do Estado RO <br/>
-   na parte de Dev front End durante 3 meses pelo Estagio Obrigatório
-   
-   ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me...  
-</h4>
 
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
 
