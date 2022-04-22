@@ -69,7 +69,8 @@ const stack = {
   <img align="center" alt="marcos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   
     
-  
+ 
+   </br>
   <img align="right" alt="marcos-pic" height="90" style="border-radius:50;" src="https://res.cloudinary.com/mahenrique94/image/upload/v1549717030/gif-bob-esponja-restaurante-pensando_bpy2ws.gif">
 </div>
    </br>
