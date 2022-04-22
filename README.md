@@ -14,18 +14,14 @@
 
 ```javascript
 const ashraf = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
+    askMeAbout: ["web dev", "help Desk", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
+        backEnd: ["nodejs", "express"],
+        fronEnd: ["Javascript", "React.js", "Next.js", "TypeScript", "Html5", "Css3", "SASS", "Bootstrap", "Materialize"],
+        database: ["FaunaDb","mySql"],
+        misc: ["Firebase", "Prismic"],
+        Sos: ["Windows", "Linux"]
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
 ```
  
