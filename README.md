@@ -2,19 +2,28 @@
 <h1 align="center">
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
    # Olá! eu sou o Marcos Vini! Seja Bem vindo 🌎😊 
- 
-   <br/>
-   <br/>
-    <img src="imagem_2022-04-20_234445894.png" width="508" >
+</h1>
    <br/>
    
-</h1>
+   <img align="right" src="imagem_2022-04-20_234445894.png" width="508" >
+ 
 
- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ashraf = {
-    askMeAbout: ["web dev", "help Desk", "tech"],
+const stack = {
+    askMeAbout: ["web dev", "help Desk", "analysis"],
     technologies:{
         backEnd: ["nodejs", "express"],
         fronEnd: ["Javascript", "React.js", "Next.js", "TypeScript", "Html5", "Css3", "SASS", "Bootstrap", "Materialize"],
