@@ -5,12 +5,12 @@
 </h1>
    <br/>
    
-   <img src="https://user-images.githubusercontent.com/51343240/164620042-1520e085-b6b4-419a-ad6a-8b71316d1ad3.jpg"  width="100%" height="500">
+   <img src="https://user-images.githubusercontent.com/51343240/164620042-1520e085-b6b4-419a-ad6a-8b71316d1ad3.jpg"   width="100%" height="400">
    <br/>
 
 
 
-  <img align="right" src="imagem_2022-04-20_234445894.png" width="508" height="320" >
+<!--   <img align="right" src="imagem_2022-04-20_234445894.png" width="508" height="320" > -->
   <br/>
 
    <div align="left" >👩‍🚀 
