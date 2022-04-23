@@ -7,6 +7,9 @@
    
    <img src="https://user-images.githubusercontent.com/51343240/164620042-1520e085-b6b4-419a-ad6a-8b71316d1ad3.jpg"   width="100%" height="400">
    <br/>
+   
+   
+   <a>https://wa.me/556999732942</a>
 
 
 
@@ -32,7 +35,6 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 
 
 ```javascript
@@ -74,15 +76,15 @@ const stack = {
 <!-- imagens das linguagens  -->
  <div style="display: inline_block"><br>
   <h2>🛠 Tecnologias</h2>
-  <img align="center" alt="marcos-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" width="40" align="center" />
-  <img align="center" alt="marcos-CSS" height="30" width="40" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="marcos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  
+  <img align="center" alt="marcos-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="marcos-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="marcos-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="marcos-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="marcos-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="50" align="center" />
+  <img align="center" alt="marcos-CSS" height="40" width="50" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="marcos-React" height="40" width="55" src="https://icongr.am/devicon/linux-original.svg?size=108&color=e1d0d0" />
+  <img align="center" alt="marcos-React" height="50" width="55" src="https://icongr.am/devicon/gimp-plain.svg?size=108&color=e1d0d0"/>
     
  
    </br>
