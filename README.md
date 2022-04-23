@@ -48,17 +48,17 @@ const stack = {
 }
 ```
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoscode404&color=yellow" alt="Profile views" /> </p>
+ <p  align="left"> <img src="https://komarev.com/ghpvc/?username=marcoscode404&color=yellow" alt="Profile views" /> </p>
 
  
-<h4 >  
+<div>  
    - ✔  Trabalho como tecnico de TI prestando suporte em sistemas do Hospital unimed Porto Velho desde 2019 até os dias Atuais <br/>
    - 👩‍🚀 No Ano de 2018 Conclui o estágio pela Procuradoria Geral do Estado na parte de Dev front End durante 3 meses pelo Estagio Obrigatório. <br/>
    - 🐱‍ Atualmente estudo Front-end como base de desenvolvimento web <br/>
    - 🐱‍👤 tecnologias que estudo atualmente: React.js, html, css, javascript,  typescript, next.js, um pouco de node.js, git, github.<br/>
    - 🛢  Outras Ferramentas: gitkrakren, figma, Adobe cloud express, whinscall, trello <br/>
    - 🐱‍🏍 Tecnologias  que tenho a intenção de estudar também: Firebase, banco de dados PostgreSQL, python, chakra UI, Tailwind <br/>
-</h4>
+</div>
 
  <br />
 
