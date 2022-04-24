@@ -14,10 +14,10 @@
 </a>
 
 
-<img src="https://user-images.githubusercontent.com/51343240/164950053-9aa51931-5c13-4111-a83e-0a6b4fb00385.gif" align="right" width="250" height="350"/>
+<img src="https://user-images.githubusercontent.com/51343240/164950053-9aa51931-5c13-4111-a83e-0a6b4fb00385.gif" align="right" width="180" height="300"/>
 
 <br/>
-<br/>
+
 
 
 
