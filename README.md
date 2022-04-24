@@ -28,6 +28,10 @@
   <br/>
 
    <div align="left" >👩‍🚀 
+      Olá, Me Marcos Vinicius, Tenho 22 Anos e Sou Apaixonado por Tecnologia e como a <br> construção delas ajudam milhares de Pessoas Atualmente.<br/>
+       Eu Sempre digo que a melhor forma de você aprender é ensinando e como a Educação pode mudar muitas Realidades! <br/>
+       Bolsista Na Rocketseat estudo a Trilha de React.js - construção de interfaces. <br/>
+       "Em um mundo onde a informação fica obsoleta cada vez mais rápido, velocidade de aprendizado é a chave para o sucesso".<br/>
       - Sou técnico em informática no Hospital Unimed Porto Velho. <br/>
       -  Analise de suporte computacional; <br/>
       - Analise técnica e corretiva de erros em SO's e softwares em geral (Help desk); <br/>
@@ -39,6 +43,7 @@
       - Manutenção e limpeza de hardwares; <br/>
       - Familiarizado com Infra estrutura de Redes. <br/>
       - Marketing Digital. <br/>
+      - Empreendedorismo 
    </div>
  
 <br/>
