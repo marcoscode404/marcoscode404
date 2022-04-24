@@ -14,9 +14,10 @@
 </a>
 
 
-<img src="https://user-images.githubusercontent.com/51343240/164950053-9aa51931-5c13-4111-a83e-0a6b4fb00385.gif" align="right" width="180" height="300"/>
+<img src="https://user-images.githubusercontent.com/51343240/164957585-c5adda75-bfaf-4e8b-9d97-fd8359a90453.gif" align="right" width="220" height="350"/>
 
 <br/>
+
 
 
 
