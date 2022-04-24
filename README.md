@@ -92,7 +92,8 @@ const stack = {
   <img align="center" alt="marcos-CSS" height="40" width="50" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="marcos-React" height="40" width="55" src="https://icongr.am/devicon/linux-original.svg?size=108&color=e1d0d0" />
   <img align="center" alt="marcos-React" height="50" width="55" src="https://icongr.am/devicon/gimp-plain.svg?size=108&color=e1d0d0"/>
-    
+  <img align="center" alt="marcos-React" height="50" width="55" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor"/>
+  <img align="center" alt="marcos-React" height="45" width="40" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor"/>
  
    </br>
   <img align="right" alt="marcos-pic" height="90" style="border-radius:50;" src="https://res.cloudinary.com/mahenrique94/image/upload/v1549717030/gif-bob-esponja-restaurante-pensando_bpy2ws.gif">
