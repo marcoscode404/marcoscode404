@@ -11,6 +11,13 @@
    
    <a>https://wa.me/556999732942</a>
 
+<img src="https://user-images.githubusercontent.com/51343240/164950053-9aa51931-5c13-4111-a83e-0a6b4fb00385.gif" align="right" width="250" height="350"/>
+
+<br/>
+<br/>
+
+
+
 
 
 <!--   <img align="right" src="imagem_2022-04-20_234445894.png" width="508" height="320" > -->
