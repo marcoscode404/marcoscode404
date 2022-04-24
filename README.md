@@ -8,8 +8,11 @@
    <img src="https://user-images.githubusercontent.com/51343240/164620042-1520e085-b6b4-419a-ad6a-8b71316d1ad3.jpg"   width="100%" height="400">
    <br/>
    
-   
-   <a>https://wa.me/556999732942</a>
+<a href="https://wa.me/556999732942">
+   <img src="https://user-images.githubusercontent.com/51343240/164951108-10568ce5-39f7-4109-9740-32a10dec6b71.png"  target="_blank" height="45" width="45">
+   <p>Entre em Contato</p>
+</a>
+
 
 <img src="https://user-images.githubusercontent.com/51343240/164950053-9aa51931-5c13-4111-a83e-0a6b4fb00385.gif" align="right" width="250" height="350"/>
 
@@ -119,7 +122,7 @@ const stack = {
   <div>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/Marcos.Code1999/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"   target="_blank"></a>
-
+    
   </div>
 <!-- /  -->
 <br/>
