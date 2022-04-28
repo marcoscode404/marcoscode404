@@ -13,6 +13,17 @@
    <p>Entre em Contato</p>
 </a>
 
+<h1 align="center">
+
+
+
+</h1>
+
+| Change Language                                                                                                       | Mudar Lingua                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [![English](https://img.shields.io/badge/English-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md) | [![Português](https://img.shields.io/badge/português-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [Português](README_pt.md) |
+
+
 
 <img src="https://user-images.githubusercontent.com/51343240/164957585-c5adda75-bfaf-4e8b-9d97-fd8359a90453.gif" align="right" width="220" height="350"/>
 
