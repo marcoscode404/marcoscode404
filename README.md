@@ -19,15 +19,8 @@
 
 </h1>
 
-<h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&color=%234C8EDA&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Bem-vindo+%C3%A0+minha+p%C3%A1gina+do+Github!;Ol%C3%A1%2C+sou+o+Isaias+Nhantumbo!;Um+estudante+apaixonado+por;Desenvolvimento+de+software+e;Empreendedorismo+em+Mo%C3%A7ambique!)](https://git.io/typing-svg)
 
-</h1>
-
-| Change Language                                                                                                       | Mudar Lingua                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [![English](https://img.shields.io/badge/English-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md) | [![Português](https://img.shields.io/badge/português-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [Português](README_pt.md) |
 
 
 <img src="https://user-images.githubusercontent.com/51343240/164957585-c5adda75-bfaf-4e8b-9d97-fd8359a90453.gif" align="right" width="220" height="350"/>
