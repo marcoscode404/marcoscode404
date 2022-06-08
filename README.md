@@ -14,6 +14,8 @@
    <p>Entre em Contato</p>
 </a>
 
+<a href="https://bit.ly/3GZOZJ4">Meus Links</a>
+
 <h1 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&color=5174F7&width=700&lines=Seja+Bem+Vindo++ao+Meu+%22Universo+de+Experimentos%22!++)](https://git.io/typing-svg)
