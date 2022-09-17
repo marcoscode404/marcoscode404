@@ -46,7 +46,10 @@
        Bolsista Na Rocketseat estudo a Trilha de React.js - construção de interfaces. <br/>
        "Em um mundo onde a informação fica obsoleta cada vez mais rápido, velocidade de aprendizado é a chave para o sucesso".<br/>
       - Sou Programador Jr Front-end. <br/>
-      - React.js , javascript, chakra UI, Material UI, Tailwind, git, gitLab, GitHub, Linux  
+      - React.js , javascript, chakra UI, Material UI, Tailwind, git, gitLab, GitHub, Linux 
+      <br/>
+      <br/>
+      
       
       Trabalhei por mais de 3  anos como Técnico em Infórmatica no Hospital Unimed Porto Velho Ro
       - Analise técnica e corretiva de erros em SO's e softwares em geral (Help desk); <br/>
