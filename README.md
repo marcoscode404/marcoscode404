@@ -45,8 +45,10 @@
        Eu Sempre digo que a melhor forma de você aprender é ensinando e como a Educação pode mudar muitas Realidades! <br/>
        Bolsista Na Rocketseat estudo a Trilha de React.js - construção de interfaces. <br/>
        "Em um mundo onde a informação fica obsoleta cada vez mais rápido, velocidade de aprendizado é a chave para o sucesso".<br/>
-      - Sou técnico em informática no Hospital Unimed Porto Velho. <br/>
-      -  Analise de suporte computacional; <br/>
+      - Sou Programador Jr Front-end. <br/>
+      - React.js , javascript, chakra UI, Material UI, Tailwind, git, gitLab, GitHub, Linux  
+      
+      Trabalhei por mais de 3  anos como Técnico em Infórmatica no Hospital Unimed Porto Velho Ro
       - Analise técnica e corretiva de erros em SO's e softwares em geral (Help desk); <br/>
       - Analise de Processos No Sistema Mv - Software de Gestão Hospitalar; <br/>
       - Suporte/Analise/Ensino de como criar uma prescrição Médica no Mv. <br/>
