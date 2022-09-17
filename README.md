@@ -85,7 +85,7 @@ const stack = {
 
  
 <div>  
-   - ✔  Trabalho como tecnico de TI prestando suporte em sistemas do Hospital unimed Porto Velho desde 2019 até os dias Atuais <br/>
+   - ✔  Trabalhei como tecnico de informatica prestando suporte em sistemas do Hospital unimed Porto Velho desde 2019 até 01/08/2022 <br/>
    - 👩‍🚀 No Ano de 2018 Conclui o estágio pela Procuradoria Geral do Estado na parte de Dev front End durante 3 meses pelo Estagio Obrigatório. <br/>
    - 🐱‍ Atualmente estudo Front-end como base de desenvolvimento web <br/>
    - 🐱‍👤 tecnologias que estudo atualmente: React.js, html, css, javascript,  typescript, next.js, um pouco de node.js, git, github.<br/>
