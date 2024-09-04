@@ -44,11 +44,12 @@
 
    <div align="left" >👩‍🚀 
        Olá, Me Marcos Vinicius, Trabalho a mais de 2 anos como Desenvolvedor Front-end, desenvolvendo varias interfaces para a area de logistica
-       usando tecnologias como javascript/typescript, tailwind, vue/nuxt, react
+       usando tecnologias como javascript/typescript, tailwind, vue/nuxt, react.
        Tenho 24 Anos e Sou Apaixonado por Tecnologia e como a <br> construção delas ajudam milhares de Pessoas Atualmente.<br/>
-       Eu Sempre digo que a melhor forma de você aprender é ensinando e como a Educação pode mudar muitas Realidades! <br/
+       Eu Sempre digo que a melhor forma de você aprender é ensinando e como a Educação pode mudar muitas Realidades! <br/>
       <br/>
-      
+      <br/>      
+      <br/>
       
       Trabalhei por mais de 3  anos como Técnico em Infórmatica no Hospital Unimed Porto Velho Ro
       - Analise técnica e corretiva de erros em SO's e softwares em geral (Help desk); <br/>
