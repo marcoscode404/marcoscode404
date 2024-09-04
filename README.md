@@ -75,7 +75,7 @@
 const stack = {
     askMeAbout: ["web dev", "help Desk", "analysis"],
     technologies:{
-        backEnd: ["nodejs", "express"],
+        backEnd: ["python","nodejs", "express"],
         fronEnd: ["Javascript", "React.js", "Next.js", "TypeScript", "Html5", "Css3", "SASS", "Bootstrap", "Materialize"],
         database: ["FaunaDb","mySql"],
         misc: ["Firebase", "Prismic"],
