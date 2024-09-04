@@ -18,9 +18,6 @@
    <img src="https://user-images.githubusercontent.com/51343240/164951108-10568ce5-39f7-4109-9740-32a10dec6b71.png"  target="_blank" height="45" width="45">
    <p>Entre em Contato</p>
 </a>
-
-<a href="https://bit.ly/3GZOZJ4">Meus Links</a>
-
 <h1 align="center">
 
 
