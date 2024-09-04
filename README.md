@@ -4,6 +4,9 @@
    # Olá! eu sou o Marcos Vini! Seja Bem vindo 🌎😊 
 
    # Atualização em breve
+   Pretendo criar alguns projetos Front-end usando Vue/Nuxt + tailwind
+   e projetos backend usando python, Fastapi, Postgres, Docker
+   'Fullstack se tornará minha nova realidade'
    
 </h1>
    <br/>
