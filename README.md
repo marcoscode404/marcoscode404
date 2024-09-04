@@ -11,7 +11,7 @@
 </h1>
    <br/>
    
-   <img src="[https://user-images.githubusercontent.com/51343240/164620042-1520e085-b6b4-419a-ad6a-8b71316d1ad3.jpg](https://nuxt.com/new-social.jpg)"   width="100%" height="400">
+   <img src="https://github.com/marcoscode404/marcoscode404/blob/main/pexels-technobulka-10816120.jpg"   width="100%" height="400">
    <br/>
    
 <a href="https://wa.me/556999732942">
