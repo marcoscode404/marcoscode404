@@ -41,9 +41,9 @@ ULTIMA ATUALIZAÇÂO - 01/06/2025
   <br/>
 
    <div align="left" >👩‍🚀 
-       Olá, Me Marcos Vinicius, Trabalho a mais de 2 anos como Desenvolvedor Front-end, desenvolvendo varias interfaces para a area de logistica
+       Olá, Me Marcos Vinicius, Trabalho a mais de 3 anos como Desenvolvedor Front-end, desenvolvendo varias interfaces para a area de logistica
        usando tecnologias como javascript/typescript, tailwind, vue/nuxt, react.
-       Tenho 24 Anos e Sou Apaixonado por Tecnologia e como a <br> construção delas ajudam milhares de Pessoas Atualmente.<br/>
+       Tenho 25 Anos e Sou Apaixonado por Tecnologia e como a <br> construção delas ajudam milhares de Pessoas Atualmente.<br/>
        Eu Sempre digo que a melhor forma de você aprender é ensinando e como a Educação pode mudar muitas Realidades! <br/>
       <br/>
       <br/>      
