@@ -3,10 +3,7 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
    # Olá! eu sou o Marcos Vini! Seja Bem vindo 🌎😊 
 
-   # Atualização em breve
-   Pretendo criar alguns projetos Front-end usando Vue/Nuxt + tailwind
-   e projetos backend usando python, Fastapi, Postgres, Docker
-   'Fullstack se tornará minha nova realidade'
+ULTIMA ATUALIZAÇÂO - 01/06/2025
    
 </h1>
    <br/>
@@ -172,14 +169,35 @@ const stack = {
  
 
 
- ##
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=marcoscode404&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph&theme=dracula)
- 
- ##
- </br>
- 
+
 <!--  cobrinha  -->
   ![Snake animation](https://github.com/marcoscode404/marcoscode404/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+###
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
   
   
   
