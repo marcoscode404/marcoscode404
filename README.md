@@ -159,25 +159,22 @@ const stack = {
 
 
 
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph.svg">
+</picture>
+###
+
+
 <!--  cobrinha  -->
   ![Snake animation](https://github.com/marcoscode404/marcoscode404/blob/output/github-contribution-grid-snake.svg)
 
 
 <img src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/snake.svg" alt="Snake animation" />
 
-###
-
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
   
   
