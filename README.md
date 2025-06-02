@@ -1,12 +1,11 @@
 
 <h1 align="center">
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   # Olá! eu sou o Marcos Vini! Seja Bem vindo 🌎😊 
-
-ULTIMA ATUALIZAÇÂO - 01/06/2025
-   
+    Olá! eu sou o Marcos Vini! Seja Bem vindo 🌎😊    
 </h1>
+
    <br/>
+   ULTIMA ATUALIZAÇÂO - 01/06/2025
    
    <img src="https://github.com/marcoscode404/marcoscode404/blob/main/pexels-technobulka-10816120.jpg"   width="100%" height="400">
    <br/>
