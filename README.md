@@ -163,7 +163,9 @@ const stack = {
   ![Snake animation](https://github.com/marcoscode404/marcoscode404/blob/output/github-contribution-grid-snake.svg)
 
 
+<img src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/snake.svg" alt="Snake animation" />
 
+###
 
 
 
