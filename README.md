@@ -15,26 +15,13 @@
    <p>Entre em Contato</p>
 </a>
 -->
-<h1 align="center">
-
-
-
-</h1>
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&color=5174F7&width=700&lines=Seja+Bem+Vindo++ao+Meu+%22Universo+de+Experimentos%22!++)](https://git.io/typing-svg)
-
-
-
 <br/>
-
 
 <!--
 <img src="https://user-images.githubusercontent.com/51343240/171816457-9b8fd800-d97a-41a5-ba62-758f2b5e8603.png"  width="520" height="350"/>
 >-->
-
-
-
 
 <!--   <img align="right" src="imagem_2022-04-20_234445894.png" width="508" height="320" > -->
   <br/>
@@ -95,8 +82,6 @@ const stack = {
 
  <br />
  
- 
-
 <div   align="center" >
   <a href="https://github.com/marcoscode404">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoscode404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -151,22 +136,14 @@ const stack = {
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{marcoscode404}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
-
-
  </br>
  
 
-
-
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman-contribution-graph.svg">
 </picture>
-###
 
 
 <!--  cobrinha  -->
