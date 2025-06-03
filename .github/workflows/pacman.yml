@@ -28,6 +28,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          estination_dir: pacman
+          destination_dir: pacman
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
