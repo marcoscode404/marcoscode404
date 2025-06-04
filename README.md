@@ -149,11 +149,6 @@ const stack = {
 
 <img src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/snake.svg" alt="Snake animation" />
 
-
-
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman/pacman-contribution-graph.svg">
@@ -162,20 +157,5 @@ const stack = {
 
 <img src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/snake/snake.svg" alt="Snake animation" />
 
-
-
-
-
-<!-- Animação Pac-Man -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman/pacman-contribution-graph.svg">
-</picture>
-
-<!-- Animação Snake -->
-<img s
-
-  
   
   
