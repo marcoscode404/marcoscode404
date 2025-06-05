@@ -162,11 +162,4 @@ const stack = {
 <!-- Snake -->
 <img alt="snake animation" src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/snake/snake.svg" />
 
-
-
-### 🐍 Snake Animation
-![Snake animation](https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/snake/snake.svg)
-
-### 👾 Pacman Contribution Graph
-![Pacman animation](https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman/pacman-contribution-graph.svg)
   
