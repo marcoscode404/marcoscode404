@@ -152,13 +152,6 @@ const stack = {
 
 
 
-<!-- Pac-Man -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/pacman/pacman-contribution-graph.svg">
-</picture>
-
 <!-- Snake -->
 <img alt="snake animation" src="https://raw.githubusercontent.com/marcoscode404/marcoscode404/output/snake/snake.svg" />
 
