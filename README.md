@@ -99,8 +99,6 @@ const stack = {
 
 - 💬 Ask me about **Vue, Nuxt, javaScript**
 
-- 📫 How to reach me **marcos.vinicius.pge.ro.gov@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
